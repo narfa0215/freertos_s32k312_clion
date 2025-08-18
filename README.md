@@ -1,6 +1,7 @@
 # freertos_s32k312_clion
 
 A FreeRTOS-based NXP S32K312 project with CMake support, ready to build and debug in CLion. Supports JLink and pyOCD, including DAPLink wireless flashing and debugging, as well as serial communication. Use CLion to open the project and start debugging with the preconfigured run/debug settings.  
+
 基于 FreeRTOS 的 NXP S32K312 项目，提供 CMake 支持，可在 CLion 中直接构建和调试。支持 JLink 与 pyOCD，其中 pyOCD 支持 DAPLink 无线下载与调试，并可进行串口通信。使用 CLion 启动项目即可，运行调试配置已预设好。
 
 ## Features / 特性
@@ -12,6 +13,18 @@ A FreeRTOS-based NXP S32K312 project with CMake support, ready to build and debu
 - DAPLink wireless flashing and debugging / DAPLink 无线下载与调试
 - Serial communication support / 串口通信支持
 - Independent of S32DS, fully CLion-based / 脱离 S32DS，完全基于 CLion
+
+## pyOCD Notice / pyOCD 注意事项
+
+The latest official version of pyOCD has compatibility issues with S32K312. Please use the temporary branch instead:
+
+最新官方版本的 pyOCD 与 S32K312 存在兼容性问题，请使用以下临时分支：
+
+```bash
+git clone https://github.com/narfa0215/pyOCD -b s32k312_v0.35.1
+cd pyOCD
+pip install .
+```
 
 ## License / 许可证
 
