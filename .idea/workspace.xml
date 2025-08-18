@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="freertos_s32k312_clion_prj" targetName="freertos_s32k312_clion.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-MinGW" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84e03823-acbc-4c87-95b6-b6bf6c451e41" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.cproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.default_mex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/com.nxp.s32ds.cle.ide.sdk.attached.sdks.data.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/com.nxp.s32ds.cle.runtime.component.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/com.nxp.s32ds.cle.runtime.sdk.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.cdt.codan.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.cdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClockConfigurationMappings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClockYaml.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/croutine.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/event_groups.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/FreeRTOS.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/StackMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/atomic.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/croutine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/deprecated_definitions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/event_groups.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/message_buffer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/mpu_prototypes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/mpu_wrappers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/newlib-freertos.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/picolibc-freertos.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/portable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/projdefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/queue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/semphr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/stack_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/stream_buffer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/task.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/include/timers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/list.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/port.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/portable/GCC/ARM_CM7/r0p1/portmacro.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/portable/MemMang/heap_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/stream_buffer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/tasks.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FreeRTOS/Source/timers.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Debugger/freertos_s32k312_clion_Debug_FLASH_Segger.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Debugger/freertos_s32k312_clion_Debug_RAM_Segger.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Debugger/freertos_s32k312_clion_Release_FLASH_Segger.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Debugger/freertos_s32k312_clion_Release_RAM_Segger.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Linker_Files/linker_flash_s32k312.ld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Linker_Files/linker_ram_s32k312.ld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Startup_Code/Vector_Table.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Startup_Code/exceptions.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Startup_Code/nvic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Startup_Code/startup.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Startup_Code/startup_cm7.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_Settings/Startup_Code/system.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_001.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_002.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_003.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_004.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_005.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_006.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_007.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_008.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Derivative_009.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Private.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Specific.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_TrustedFunctions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Clock_Ip_Types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Det.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Det_stub.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Igf_Port_Ip.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Igf_Port_Ip_Types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf_Cfg_TypesDef.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf_DeviceRegisters.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf_Internal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf_Interrupts.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf_Timer_Custom.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf_Timer_System.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/OsIf_Timer_System_Internal_Systick.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/SchM_Mcu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/SchM_Port.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Siul2_Port_Ip.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Siul2_Port_Ip_Types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Tspc_Port_Ip.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/include/Tspc_Port_Ip_Types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Data.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Divider.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_DividerTrigger.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_ExtOsc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_FracDiv.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Frequency.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Gate.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_IntOsc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Irq.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Monitor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Pll.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_ProgFreqSwitch.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Selector.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Clock_Ip_Specific.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Det.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Det_stub.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Igf_Port_Ip.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/OsIf_Interrupts.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/OsIf_Timer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/OsIf_Timer_System.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/OsIf_Timer_System_Internal_Systick.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/SchM_Mcu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/SchM_Port.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Siul2_Port_Ip.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RTD/src/Tspc_Port_Ip.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/board/Siul2_Port_Ip_Cfg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/board/Siul2_Port_Ip_Cfg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/board/Tspc_Port_Ip_Cfg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/board/Tspc_Port_Ip_Cfg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake/CMakeLists.jdebug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake/PreLoad.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake/gcc_arm_eabi_toolchain.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freertos_s32k312_clion.mex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/Clock_Ip_Cfg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/Clock_Ip_Cfg_Defines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/FreeRTOSConfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/Igf_Port_Ip_Cfg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/OsIf_ArchCfg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/OsIf_Cfg.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/Siul2_Port_Ip_Defines.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/Soc_Ips.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/include/modules.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/src/Clock_Ip_Cfg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/src/Igf_Port_Ip_Cfg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generate/src/OsIf_Cfg.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddedSvdWindowState">
+    <option name="columnWidths">
+      <list>
+        <option value="212" />
+        <option value="92" />
+        <option value="1292" />
+      </list>
+    </option>
+    <option name="columnOrder">
+      <list>
+        <option value="名称" />
+        <option value="值" />
+        <option value="描述" />
+      </list>
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-MinGW" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="nfn6kkm5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.3" />
+  </component>
+  <component name="ProjectId" id="31So7Z9TTTokjmlsngYduvF8hZe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CMakeSettings"
+  }
+}]]></component>
+  <component name="RunManager" selected="嵌入式 GDB 服务器.freertos_s32k312_clion.elf-JLink">
+    <configuration name="freertos_s32k312_clion.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="freertos_s32k312_clion_prj" TARGET_NAME="freertos_s32k312_clion.elf" CONFIG_NAME="Debug-MinGW" RUN_TARGET_PROJECT_NAME="freertos_s32k312_clion_prj" RUN_TARGET_NAME="freertos_s32k312_clion.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="freertos_s32k312_clion.elf-JLink" type="com.jetbrains.cidr.embedded.customgdbserver.type" factoryName="com.jetbrains.cidr.embedded.customgdbserver.factory" PROGRAM_PARAMS="-if swd -device S32K312 -endian little -port 2331 -swoport 2332 -telnetport 2333 -vd -ir -localhostonly 1 -singlerun -strict -timeout 0 -nogui -jlinkscriptfile C:\NXP\S32DS.3.5\eclipse\../Drivers/Segger/JlinkScripts/S32K3xx/S32K312.jlinkscript" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="freertos_s32k312_clion_prj" TARGET_NAME="freertos_s32k312_clion.elf" CONFIG_NAME="Debug-MinGW" version="1" RUN_TARGET_PROJECT_NAME="freertos_s32k312_clion_prj" RUN_TARGET_NAME="freertos_s32k312_clion.elf">
+      <custom-gdb-server version="1" gdb-connect="localhost:2331" executable="C:\Program Files\SEGGER\JLink_V850\JLinkGDBServerCL.exe" warmup-ms="0" download-type="ALWAYS" reset-cmd="monitor reset" reset-type="AFTER_DOWNLOAD">
+        <debugger kind="GDB" isBundled="true" />
+      </custom-gdb-server>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="freertos_s32k312_clion.elf-PyOcd" type="com.jetbrains.cidr.embedded.customgdbserver.type" factoryName="com.jetbrains.cidr.embedded.customgdbserver.factory" PROGRAM_PARAMS="gdbserver --target s32k312 --port 3333" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="freertos_s32k312_clion_prj" TARGET_NAME="freertos_s32k312_clion.elf" CONFIG_NAME="Debug-MinGW" version="1" RUN_TARGET_PROJECT_NAME="freertos_s32k312_clion_prj" RUN_TARGET_NAME="freertos_s32k312_clion.elf">
+      <custom-gdb-server version="1" gdb-connect="localhost:3333" executable="pyocd" warmup-ms="0" download-type="ALWAYS" reset-cmd="monitor reset" reset-type="AFTER_DOWNLOAD">
+        <debugger kind="GDB" isBundled="true" />
+      </custom-gdb-server>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.freertos_s32k312_clion.elf" />
+      <item itemvalue="嵌入式 GDB 服务器.freertos_s32k312_clion.elf-JLink" />
+      <item itemvalue="嵌入式 GDB 服务器.freertos_s32k312_clion.elf-PyOcd" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="84e03823-acbc-4c87-95b6-b6bf6c451e41" name="更改" comment="" />
+      <created>1755526667973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755526667973</updated>
+      <workItem from="1755526669449" duration="623000" />
+      <workItem from="1755527841826" duration="21000" />
+      <workItem from="1755527900955" duration="1701000" />
+      <workItem from="1755530021040" duration="948000" />
+      <workItem from="1755530991948" duration="1109000" />
+      <workItem from="1755532384089" duration="1061000" />
+      <workItem from="1755533460554" duration="24000" />
+      <workItem from="1755533496616" duration="571000" />
+      <workItem from="1755534171978" duration="1299000" />
+      <workItem from="1755536121555" duration="1194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

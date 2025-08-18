@@ -1,0 +1,83 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# debug information files
+*.dwo
+
+# build output directories
+Debug/
+Debug_FLASH/
+Debug_RAM/
+Release/
+Release_FLASH/
+Release_RAM/
+
+# keil #
+OBJ/
+Proj/EOBD.uvguix.*
+Proj/JLinkLog.txt
+Proj/Output/
+
+# idea #
+.idea
+*.iml
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# clion #
+*build-*/
+*.jdebug.user
+
+# s32ds #
+.settings/language.settings.xml
