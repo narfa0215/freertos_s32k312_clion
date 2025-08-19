@@ -95,7 +95,7 @@
         <option name="CLION.COMPOUND.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="freertos_s32k312_clion.elf-PyOcd" type="com.jetbrains.cidr.embedded.customgdbserver.type" factoryName="com.jetbrains.cidr.embedded.customgdbserver.factory" PROGRAM_PARAMS="gdbserver --target s32k312 --port 3333" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="freertos_s32k312_clion_prj" TARGET_NAME="freertos_s32k312_clion.elf" CONFIG_NAME="Debug-MinGW" version="1" RUN_TARGET_PROJECT_NAME="freertos_s32k312_clion_prj" RUN_TARGET_NAME="freertos_s32k312_clion.elf">
+    <configuration name="freertos_s32k312_clion.elf-PyOcd" type="com.jetbrains.cidr.embedded.customgdbserver.type" factoryName="com.jetbrains.cidr.embedded.customgdbserver.factory" PROGRAM_PARAMS="gdbserver --target s32k312 --port 3333 --telnet-port 4444 --probe-server-port 5555" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="freertos_s32k312_clion_prj" TARGET_NAME="freertos_s32k312_clion.elf" CONFIG_NAME="Debug-MinGW" version="1" RUN_TARGET_PROJECT_NAME="freertos_s32k312_clion_prj" RUN_TARGET_NAME="freertos_s32k312_clion.elf">
       <custom-gdb-server version="1" gdb-connect="localhost:3333" executable="pyocd" warmup-ms="0" download-type="ALWAYS" reset-cmd="monitor reset" reset-type="AFTER_DOWNLOAD">
         <debugger kind="GDB" isBundled="true" />
       </custom-gdb-server>
